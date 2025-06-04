@@ -11,6 +11,48 @@
       "content": "hey ",
       "id": "aacb46d4-0a55-4729-97b4-5ebc5a5801a0",
       "createdAt": "2025-06-03T17:54:50.088Z"
+    },
+    {
+      "role": "user",
+      "content": "hey",
+      "id": "f803b3b7-357f-4498-8c86-b3f83f69590c",
+      "createdAt": "2025-06-04T16:37:19.782Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "refusal": null,
+      "annotations": [],
+      "id": "591ca9a1-e916-48b9-b8c5-43fbc2e51d28",
+      "createdAt": "2025-06-04T16:37:21.738Z"
+    },
+    {
+      "role": "user",
+      "content": "whats the weather? ",
+      "id": "c71cacfd-8598-447f-9964-5667b108f26d",
+      "createdAt": "2025-06-04T16:38:25.032Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Could you please provide me with the location (city and country) for which you would like to know the weather?",
+      "refusal": null,
+      "annotations": [],
+      "id": "07cc5506-2d28-4a7b-bc6f-54a822813b93",
+      "createdAt": "2025-06-04T16:38:26.393Z"
+    },
+    {
+      "role": "user",
+      "content": "what about Paris, France",
+      "id": "03cad5f9-2ca0-4ff3-9d0b-ca98ff898201",
+      "createdAt": "2025-06-04T16:38:44.353Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current temperature in Paris, France is 22°C. If you need more information or have any other questions, feel free to ask!",
+      "refusal": null,
+      "annotations": [],
+      "id": "3d161cdf-cf46-46b3-8196-86b0ebb9218e",
+      "createdAt": "2025-06-04T16:38:46.454Z"
     }
   ]
 }
